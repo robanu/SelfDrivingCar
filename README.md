@@ -1,4 +1,15 @@
 # SelfDrivingCar
+Components used:
+  1. NVIDIA Jetson Nano
+  2. Arduino Nano
+  3. USB Webcam
+  4. Ultrasonic sensors HC04
+  5. 12V DC motors
+  6. Wheels, Chassis, Separators
+  7. Motor Driver L298
+  8. SD Card for Jetson Nano
+  9. Wi-Fi adapter for Jetson Nano 
+
 Block diagram
 ![Block diagram](https://user-images.githubusercontent.com/55018360/205338030-c7b5eb84-4c70-4ae6-a4b7-8662e0312f13.png)
 
